@@ -14,3 +14,6 @@ Library cataloging app.
 
 ## Production build
 - `npm run production`
+
+## Update DB seed file
+- `php artisan iseed users,libraries,books --force`
